@@ -1,5 +1,7 @@
 # Tauri + React + Typescript
 
+# This project is currently unmaintained.
+
 Front end using React TS and TailwindCSS
 
 Logic stuff using Rust with Tauri
